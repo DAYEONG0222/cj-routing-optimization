@@ -1,0 +1,11 @@
+﻿__pycache__/
+*.pyc
+.DS_Store
+Result.xlsx
+
+# 대회 제공 자료 (공개 불가)
+Sample.py
+data.json
+distance-data.txt
+미래기술챌린지*.pdf
+result.png
