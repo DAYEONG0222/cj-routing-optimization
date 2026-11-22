@@ -9,3 +9,6 @@ data.json
 distance-data.txt
 미래기술챌린지*.pdf
 result.png
+
+# 실행 결과 (대회 데이터에서 나온 좌표·위경도 포함)
+outputs/
